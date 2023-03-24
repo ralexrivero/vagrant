@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/repos":{"guestpath":"/home/vagrant/repos","hostpath":"/mnt/code/repos","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/mnt/code/repos/vagrant/machines/focal64","disabled":false,"__vagrantfile":true}}}
